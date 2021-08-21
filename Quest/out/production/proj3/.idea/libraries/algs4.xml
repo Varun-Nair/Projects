@@ -1,0 +1,21 @@
+<component name="libraryTable">
+  <library name="algs4">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../su21-s508/library-su21/algs4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../su21-s508/library-su21/hamcrest-core-1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../su21-s508/library-su21/jh61b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../su21-s508/library-su21/junit-4.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../su21-s508/library-su21/stdlib-package.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../su21-s508/library-su21/stdlib.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../su21-s508/library-su21/ucb.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../su21-s508/library-su21/xchart-3.5.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$PROJECT_DIR$/../../su21-s508/library-su21/algs4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../su21-s508/library-su21/jh61b.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../su21-s508/library-su21/stdlib-package.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../../su21-s508/library-su21/stdlib.jar!/" />
+    </SOURCES>
+  </library>
+</component>
