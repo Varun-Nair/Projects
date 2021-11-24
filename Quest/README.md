@@ -1,11 +1,6 @@
-# Build Your Own World Design Document
+2D tile-based world exploration single player grid game. Primary functions of the game implement generating new random worlds, loading a saved game, replaying your moves, and world-building lore by hovering on tiles!
 
-**Partner 1:**
 
-**Partner 2:**
+A presentation is on Girthub talking about basic and advanced features
 
-## Classes and Data Structures
 
-## Algorithms
-
-## Persistence
