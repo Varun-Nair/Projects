@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/Users/varun/Desktop/Passport_Challenge/my-first-contract/target/debug/build/typenum-fca18f9002ff4146/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/Users/varun/Desktop/Passport_Challenge/my-first-contract/target/debug/build/typenum-fca18f9002ff4146/out/op.rs
